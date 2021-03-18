@@ -3,6 +3,7 @@
 blog
 
 
+## Font
 
 Font in use <a target="_blank" href="https://www.fontsquirrel.com/fonts/changa">Changa-Light</a> designed by
 <a target="_blank" href="http://www.tipo.net.ar/">Eduardo Tunni</a>
@@ -13,19 +14,16 @@ and licensed under
   
   
   
+# Colors   
+
+## Font
   
+    #9284DB, #2705C7
 
-Font
-#9284DB, #2705C7
-+
+## Background
+    
+    transparent
 
-Slogan
-#ffffff
-+
+## Icon
 
-Background
-transparent
-✕
-
-Icon
-#9284DB, #2705C7
+    #9284DB, #2705C7
