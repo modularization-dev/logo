@@ -1,4 +1,4 @@
-## modularization.dev
+# logo.modularization.dev
 
 blog
 
